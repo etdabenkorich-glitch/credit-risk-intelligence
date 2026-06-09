@@ -138,7 +138,7 @@ SHAP values provide the audit trail required by all three frameworks.
 
 ## 👤 Author
 
-**Your Name**  
+**Abdelaziz_Benkorich**  
 MSc student — Finance & Business Administration | HEC  
 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
 
