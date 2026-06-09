@@ -1,0 +1,56 @@
+# ── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Jupyter ───────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Data files (too large / sensitive — see data/README.md) ──────
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.parquet
+data/*.json
+data/*.zip
+
+# ── Environment ───────────────────────────────────────────────────
+.env
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ── IDEs ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── OS files ──────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# ── Model artifacts (large binaries) ─────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# ── Logs & temp ───────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+.cache/
